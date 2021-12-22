@@ -1,0 +1,6 @@
+Learning must to do =====
+============ Learning ============
+
+JSON Web Token, commonly known as JWT (used in below method)
+
+1.) https://auth0.com/blog/developing-restful-apis-with-lumen/
